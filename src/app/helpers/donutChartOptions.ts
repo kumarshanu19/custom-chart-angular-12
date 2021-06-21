@@ -22,7 +22,7 @@ export const donutChartOptions: Options = {
   title: {
     verticalAlign: 'middle',
     floating: true,
-    text: '$ 600,000.00',
+    text: '₹ 600,000.00',
   },
   legend: {
     enabled: false,
