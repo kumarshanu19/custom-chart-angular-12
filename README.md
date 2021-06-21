@@ -1,5 +1,7 @@
 # CustomChart
 
+![Screenshot](src/assets/ui.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
@@ -26,11 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# custom-chart-angular-12
-
 **Deploy your Angular app to GitHub pages directly from the Angular CLI! 🚀**
-
-![Screenshot](assets/ui.png)
 
 ## 🚀 Quick Start (local development) <a name="quickstart-local"></a>
 
@@ -146,4 +144,5 @@ Now you can just run `ng deploy` without all the options in the command line! �
 
 We have seen `angular-cli-ghpages` running on various environments, like Travis CI, CircleCi or Github Actions.
 Please share your knowledge by writing an article about how to set up the deployment.
+
 # custom-chart-angular-12
